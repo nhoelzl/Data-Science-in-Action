@@ -1,33 +1,13 @@
-![Python CI](https://github.com/nhoelzl/General-Py-Boilerplate/workflows/Python%20CI/badge.svg?branch=main)
+![Python CI](https://github.com/nhoelzl/Data-Science-in-Action/workflows/Python%20CI/badge.svg?branch=main)
 
-# General 🐍 Project Boilerplate (for Data Science)
+# Data Science in Action ✨📈
 
-This boilerplate uses Python>3 with pytest>3.0.7. 
+This repository uses Python>3 with pytest>3.0.7. 
 
-# Usage
-Use this project as `Template` for your projects. Add your personal information to `author` tag in `main.py`. 
+# Usage 🚀
+...
 
-When running `main.py`, your first output should be:
-
-```
-[I 210120 10:42:26 main:15] hello world
-```
-
-If you want to test your functionality, go to the location of your test file and type `py.test test_sample.py`.
-
-```
-============================================================== test session starts 
-platform darwin -- Python 3.8.5, pytest-6.1.1, py-1.9.0, pluggy-0.13.1
-rootdir: ./tests/
-collected 1 item                                                                                                                                
-
-test_sample.py .                                                           [100%]
-
-=============================================================== 1 passed in 0.01s
-```
-
-Adjust the tests, docs and code as you need it. 
-
+# Setup Guide ⚒️
 ## Setup local dev environment on Linux/Mac:
 
 After you've successfully setup this project as your template repository, check if python is 
