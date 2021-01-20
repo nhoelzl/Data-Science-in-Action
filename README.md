@@ -7,7 +7,7 @@ This repository uses Python>3 with pytest>3.0.7.
 # Usage 🚀
 ...
 
-# Setup Guide ⚒️
+# Setup Guide 🔥
 ## Setup local dev environment on Linux/Mac:
 
 After you've successfully setup this project as your template repository, check if python is 
@@ -34,7 +34,7 @@ You activate the environment with `.\env\Scripts\activate`.
 Now you can install all necessary libraries with `pip install -r 
 requirements.txt`.
 
-# License
+# License 📃
 MIT License
 
 Copyright (c) 2021 Nicole Hoelzl
