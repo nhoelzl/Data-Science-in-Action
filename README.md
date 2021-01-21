@@ -4,11 +4,11 @@
 
 This repository uses Python>3 with pytest>3.0.7. 
 
-# Usage 🚀
+## Usage 🚀
 ...
 
-# Setup Guide 🔥
-## Setup local dev environment on Linux/Mac:
+## Setup Guide 🛠️
+### Setup local dev environment on Linux/Mac:
 
 After you've successfully setup this project as your template repository, check if python is 
 available `python3 --version` and `python3 -m pip --version`.
@@ -21,7 +21,7 @@ You activate the environment with `source venv/bin/activate`.
 Now you can install all necessary libraries with `pip install -r 
 requirements.txt`.
 
-## Setup local dev environment on Windows:
+### Setup local dev environment on Windows:
 
 After you've successfully setup this project as your template repository, check if python is 
 available `py --version` and `py -m pip --version`.
@@ -34,7 +34,7 @@ You activate the environment with `.\env\Scripts\activate`.
 Now you can install all necessary libraries with `pip install -r 
 requirements.txt`.
 
-# License 📃
+## License 📃
 MIT License
 
 Copyright (c) 2021 Nicole Hoelzl
