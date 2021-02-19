@@ -1,2 +1,15 @@
-pytest>=3.0.7
-logzero  # see github.com/metachris/logzero
+attrs==20.3.0
+iniconfig==1.1.1
+joblib==1.0.1
+logging==0.4.9.6
+numpy==1.20.1
+packaging==20.9
+pluggy==0.13.1
+py==1.10.0
+pyparsing==2.4.7
+pytest==6.2.2
+scikit-learn==0.24.1
+scipy==1.6.1
+threadpoolctl==2.1.0
+toml==0.10.2
+matplotlib==3.3.4
